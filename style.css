@@ -42,6 +42,16 @@
     border-radius: 15px;
     display: inline-block;
 }
+
+.skill-badge-2 {
+    background-color: #E66732;
+    color: white;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 15px;
+    display: inline-block;
+}
+
 .skill-badge:hover {
     background-color: orangered;
 }
@@ -100,3 +110,24 @@ ul.timeline {
     margin-left: 10px;
     font-size:medium;
   }
+
+
+.project-card {
+  background-color: #2a2a2a;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.project-card img {
+  position:relative;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+.tech-badge {
+  margin-right: 5px;
+}
+
+.project-card{
+    color:white
+}
