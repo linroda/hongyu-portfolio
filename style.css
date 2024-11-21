@@ -118,10 +118,12 @@ ul.timeline {
   border-radius: 10px;
   margin-bottom: 20px;
 }
+
 .project-card img {
   position:relative;
   width: 100%;
-  height: auto;
+  max-height: 10rem;
+  object-fit: cover;
   border-radius: 10px;
 }
 .tech-badge {
